@@ -1,9 +1,7 @@
-# IBM ❤️ open-source AI
+# IBM ❤️ Open-Source AI
 
-IBM Research is doing cutting-edge research in Large Language Models (LLMs), leading to innovation in the AI landscape. Our commitment to advancing the field is governed by our long-term commitment to open-source.
+IBM is building enterprise-focused foundation models to drive the future of business. The Granite family of foundation models span a variety of modalities, including language, code, and other modalities, such as time series.
 
-We strongly believe in the power of collaboration and community-driven development to propel AI forward. The IBM-Granite GitHub organization is where we host our endeavors in crafting and releasing the Granite Large Language Models. Our efforts span wide range of scales and modalities, encompassing language models and beyond, including code.
-
-We plan on doing regular releases of our state-of-the-art LLMs on our [Hugging Face organization](https://huggingface.co/ibm-granite). We hope that the AI community will find our efforts useful and that our models would fuel their research.
+We strongly believe in the power of collaboration and community-driven development to propel AI forward. As such, we will be releasing our latest open innovations on this IBM-Granite GitHub organization page with model weights on our [Hugging Face organization](https://huggingface.co/ibm-granite). We hope that the AI community will find our efforts useful and that our models help fuel their research.
 
 If you have any questions, please visit our [discussions page](https://github.com/orgs/ibm-granite/discussions).
