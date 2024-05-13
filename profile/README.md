@@ -1,4 +1,4 @@
-# IBM ❤️ Open-Source AI
+# IBM ❤️ Open Source AI
 
 IBM is building enterprise-focused foundation models to drive the future of business. The Granite family of foundation models span a variety of modalities, including language, code, and other modalities, such as time series.
 
