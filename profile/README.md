@@ -11,34 +11,33 @@ In this GitHub organization you find repositories related to:
 
 
 ## Latest Models
-You'll find the models (weights) on [HuggingFace](https://huggingface.co/ibm-granite). The repos here provide backround, hands-on guidance, and example code.
+You'll find the models (weights) on [HuggingFace](https://huggingface.co/ibm-granite/collections). The repositories below provide background, hands-on guidance, and example code.
 <table>
   <tr>
-    <td><a href="https://github.com/ibm-granite/granite-4.0-language-models">Granite 4.0 Language Models</a></td>
-    <td><a href="https://github.com/ibm-granite/granite-4.0-nano-language-models">Granite 4.0 Nano Language Models</a></td>
-    <td><a href="https://github.com/ibm-granite/granite-vision-models">Granite 4.0 Vision Models</a></td>
+    <td><a href="https://github.com/ibm-granite/granite-4.1-language-models">Granite 4.1 Language Models</a></td>
+    <td><a href="https://github.com/ibm-granite/granite-vision-models">Granite 4.1 Vision Models</a></td>
+       <td><a href="https://github.com/ibm-granite/granite-speech-models">Granite 4.1 Speech Models</a></td>
   </tr>
   <tr>
-      <td><a href="https://github.com/ibm-granite/granite-speech-models">Granite Speech Models</a></td>
       <td><a href="https://github.com/ibm-granite/granite-embedding-models">Granite Embedding Models</a></td>
-    <td><a href="https://github.com/ibm-granite/granite-guardian">Granite Guardian Models</a></td>  
+    <td><a href="https://github.com/ibm-granite/granite-guardian">Granite 4.1 Guardian Models</a></td>  
+        <td><a href="https://github.com/ibm-granite/granite-tsfm">Granite Time Series Foundation Models</a></td>
   </tr>
    <tr>
-    <td><a href="https://github.com/ibm-granite/granite-tsfm">Granite Time Series Foundation Models</a></td><td><a href="https://github.com/ibm-granite/geospatial">Granite Geospatial Model</a></td>
+    <td><a href="https://github.com/ibm-granite/geospatial">Granite Geospatial Model</a></td>
+    <td> </td>
     <td> </td>
   </tr>
 </table>
 
 ## Tools
 
-<!--
-  <tr>
-   <td><b>Trust</b></td> 
-   <td><a href="https://github.com/ibm-granite/granite-actionable-policy">Policy Tools<td>
-  </tr>
-  -->
 
 <table>
+  <tr>
+   <td><b>Trust</b></td> 
+   <td><a href="https://github.com/ibm-granite/granite.trust.policy-tools">Policy Tools<td>
+  </tr>
   <tr>
    <td><b>Debug</b></td> 
    <td><a href="https://github.com/ibm-granite/scaffolded-task-design">Debug Tools</td>
@@ -78,7 +77,7 @@ If you have any questions, please visit our [discussions page](https://github.co
 
 ## Earlier Model Versions
 
-[Granite 3.3 language models](https://github.com/ibm-granite/granite-3.3-language-models) - 
+[Granite 4.0 Language Models](https://github.com/ibm-granite/granite-4.0-language-models) - [Granite 4.0 Nano Language Models](https://github.com/ibm-granite/granite-4.0-nano-language-models) - [Granite 3.3 language models](https://github.com/ibm-granite/granite-3.3-language-models) - 
 [Granite 3.1 language models](https://github.com/ibm-granite/granite-3.1-language-models) - 
 [Granite 3.0 language models](https://github.com/ibm-granite/granite-3.0-language-models) - 
 [Granite code models](https://github.com/ibm-granite/granite-code-models)
