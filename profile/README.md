@@ -7,7 +7,7 @@ We strongly believe in the power of collaboration and community-driven developme
 In this GitHub organization you find repositories related to:
 - [Code](#latest-models) to download and try out different Granite models
 - [Tools](#tools) for using models in applications.
-- [Documentation](https://github.com/ibm-granite/docs)
+- [Documentation](https://www.ibm.com/granite/docs/models/granite4-1)
 
 
 ## Latest Models
@@ -50,7 +50,7 @@ You'll find the models (weights) on [HuggingFace](https://huggingface.co/ibm-gra
 
 ## Documentation
 
-The general Granite [Documentation](https://github.com/ibm-granite/docs) is updated regularly. For different model types or tools you'll find specific documentation in the respective repositories.
+The general Granite [Documentation](https://www.ibm.com/granite/docs/models/granite4-1) is updated regularly. For different model types or tools you'll find specific documentation in the respective repositories.
 
 **Hands-on cookbooks** get you started with example code, notebooks and links to Colabs:
 
