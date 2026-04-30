@@ -15,12 +15,12 @@ You'll find the models (weights) on [HuggingFace](https://huggingface.co/ibm-gra
 <table>
   <tr>
     <td><a href="https://github.com/ibm-granite/granite-4.1-language-models">Granite 4.1 Language Models</a></td>
-    <td><a href="https://github.com/ibm-granite/granite-vision-models">Granite Vision Models</a></td>
+    <td><a href="https://github.com/ibm-granite/granite-vision-models">Granite 4.1 Vision Models</a></td>
        <td><a href="https://github.com/ibm-granite/granite-speech-models">Granite Speech Models</a></td>
   </tr>
   <tr>
       <td><a href="https://github.com/ibm-granite/granite-embedding-models">Granite Embedding Models</a></td>
-    <td><a href="https://github.com/ibm-granite/granite-guardian">Granite Guardian Models</a></td>  
+    <td><a href="https://github.com/ibm-granite/granite-guardian">Granite 4.1 Guardian Models</a></td>  
         <td><a href="https://github.com/ibm-granite/granite-tsfm">Granite Time Series Foundation Models</a></td>
   </tr>
    <tr>
