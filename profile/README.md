@@ -43,6 +43,10 @@ You'll find the models (weights) on [HuggingFace](https://huggingface.co/ibm-gra
    <td><a href="https://github.com/ibm-granite/scaffolded-task-design">Debug Tools</td>
   </tr>
   <tr>
+   <td><b>Build</b></td> 
+   <td><a href="https://github.com/ibm-granite/granite.build">Granite.Build</td>
+  </tr>
+  <tr>
     <td><b>Quantize</b></td> 
     <td><a href="https://github.com/ibm-granite/gguf">GGUF Pipeline</a></td>
   </tr>
