@@ -7,14 +7,14 @@ We strongly believe in the power of collaboration and community-driven developme
 In this GitHub organization you find repositories related to:
 - [Code](#latest-models) to download and try out different Granite models
 - [Tools](#tools) for using models in applications.
-- [Documentation](https://www.ibm.com/granite/docs/models/granite4-1)
+
 
 
 ## Latest Models
 You'll find the models (weights) on [HuggingFace](https://huggingface.co/ibm-granite/collections). The repositories below provide background, hands-on guidance, and example code.
 <table>
   <tr>
-    <td><a href="https://github.com/ibm-granite/granite-4.1-language-models">Granite 4.1 Language Models</a></td>
+    <td><a href="https://github.com/ibm-granite/granite-4.2-language-models">Granite 4.2 Language Models</a></td>
     <td><a href="https://github.com/ibm-granite/granite-vision-models">Granite 4.1 Vision Models</a></td>
        <td><a href="https://github.com/ibm-granite/granite-speech-models">Granite Speech Models</a></td>
   </tr>
@@ -60,14 +60,14 @@ The general Granite [Documentation](https://www.ibm.com/granite/docs/models/gran
 
 - [Granite Snack Cookbook](https://github.com/ibm-granite-community/granite-snack-cookbook) - start using Granite models
 - [Granite Agent Cookbook](https://github.com/ibm-granite-community/granite-agent-cookbook) - start using Granite with agents
-- [Granite Code Cookbook](https://github.com/ibm-granite-community/granite-code-cookbook) - recipies for using Granite code
 - [Granite Time Series Cookbook](https://github.com/ibm-granite-community/granite-timeseries-cookbook) - recipies for using Granite time series
 - [Granite Kitchen](https://github.com/ibm-granite-community/granite-kitchen) - setting up your environment
 
 **Self-paced workshops** provide in-depth educational material in a comprehensive format.
 
 - [Granite Workshop](https://ibm.github.io/granite-workshop/) - in-depth using  Granite models for generative AI applications
-- [Granite Time Series Workshop](https://ibm.github.io/granite-timeseries-workshop/) - in-depth use of Granite time series models
+- [Granite Agent Workshop](https://ibm-granite-community.github.io/granite-agent-workshop/) - in-depth using  open-sourced IBM Granite AI foundation models to develop AI agents
+- [Granite Time Series Workshop](https://ibm-granite-community.github.io/granite-timeseries-workshop/) - in-depth use of Granite time series models
 
 ## Other Resources
 - [IBM Granite Website:](https://www.ibm.com/granite) More information about the Granite family of models.
@@ -81,7 +81,7 @@ If you have any questions, please visit our [discussions page](https://github.co
 
 ## Earlier Model Versions
 
-[Granite 4.0 Language Models](https://github.com/ibm-granite/granite-4.0-language-models) - [Granite 4.0 Nano Language Models](https://github.com/ibm-granite/granite-4.0-nano-language-models) - [Granite 3.3 language models](https://github.com/ibm-granite/granite-3.3-language-models) - 
+[Granite 4.1 Language Models](https://github.com/ibm-granite/granite-4.1-language-models) - [Granite 4.0 Language Models](https://github.com/ibm-granite/granite-4.0-language-models) - [Granite 4.0 Nano Language Models](https://github.com/ibm-granite/granite-4.0-nano-language-models) - [Granite 3.3 language models](https://github.com/ibm-granite/granite-3.3-language-models) - 
 [Granite 3.1 language models](https://github.com/ibm-granite/granite-3.1-language-models) - 
 [Granite 3.0 language models](https://github.com/ibm-granite/granite-3.0-language-models) - 
 [Granite code models](https://github.com/ibm-granite/granite-code-models)
